@@ -1,0 +1,28 @@
+* {
+    color: white;
+    font-family: 'Prompt', sans-serif;
+}
+
+h1 {
+    
+    text-shadow: 5px 5px 20px black;
+}
+
+body{
+    background-color: rgb(47, 49, 50);
+}
+
+.hover{
+    transition: 0.2s;
+}
+
+.hover:hover{
+    transform: scale(1.01);
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
